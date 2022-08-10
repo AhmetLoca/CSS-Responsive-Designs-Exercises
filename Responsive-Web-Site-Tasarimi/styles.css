@@ -1,8 +1,50 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&display=swap');
 
-
 *{
     margin:0;
     padding:0;
     box-sizing:border-box;
+    font-family:'Poppins', sans-serif;
+    background-color: #fafafa;
 }
+
+
+/************ Header Start ***************/
+.header{
+    display:flex; /*header'i yan yana getirdik. Ve ortayacağız.*/
+    justify-content:center;
+    align-items:center;
+    margin:50px 5px; /*50px alttan üstten, sağdan ve soldan 5px*/
+}
+
+.logo{
+    display:flex; /*span ile h2'nin yan yana gelmesini istiyorum. span ile h2'i kapsayan logo oldugu için logo class'ina display:flex verdik.*/
+    align-items:center;
+}
+
+.logo-circle{
+    display:flex;
+    flex-direction: column;
+    margin-right:5px;
+}
+
+.header .logo .circle {
+    display:inline-block;
+    height:8px;
+    width: 8px;
+    border-radius:50%;
+}
+
+.header .logo .logo-circle .circle-1 { /* 1.spanimiz */
+    background-color:#887a9c;
+    margin-left:10px;
+
+}
+
+.header .logo .logo-circle .circle-2 { /* 2.spanimiz */
+    background-color:#4F93A6;
+}
+
+/************** Header finish ****************/
+
+

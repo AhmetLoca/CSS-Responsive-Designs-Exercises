@@ -80,7 +80,7 @@
 }
 
 .kare4{
-    margin-left:-50px;
+    margin-left:50px;
 }
 
 
@@ -305,7 +305,7 @@
 
 
 /* Responsive Start */
-@media screen and (max-width:870px){
+@media screen and (max-width:1080px){
     .about .about-info h1{
         font-size:35px;
     }
@@ -321,15 +321,15 @@
         margin-bottom:10px;
     }
     .kare3{
-        margin-left:150px;
+        margin-left:200px;
         margin-bottom:10px;
     }
     .kare4{
-        margin-left:150px;
+        margin-left:-20px;
         margin-bottom:10px;
     }
     .kare5{
-        margin-right:200px;
+        margin-left:150px;
         margin-bottom:10px;
     }
     .footer-info{

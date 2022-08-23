@@ -7,7 +7,8 @@
 
 ## Mobile Page
 
-<img src="img/MonilePageMeet.jpg" alt="drawing" border="1px solid #ddd" width="300"/>
-<img src="img/MobilePageMeet2.jpg" alt="drawing" width="300"/>
 <img src="img/MobilePageMeet3.jpg" alt="drawing" width="300"/>
+<img src="img/MonilePageMeet.jpg" alt="drawing" width="300"/>
+<img src="img/MobilePageMeet2.jpg" alt="drawing" width="300"/>
+
 <img src="img/MobilepageMeet4.jpg" alt="drawing" width="300"/>

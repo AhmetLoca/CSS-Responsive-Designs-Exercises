@@ -6,9 +6,9 @@
 
 ---
 
-![Mobile Page](img/MobilePageMeet.jpg)
-![Mobile Page2](img/MobilePageMeet2.jpg)
-![Mobile Page3](img/MobilePageMeet3.jpg)
-![Mobile Page4](img/MobilepageMeet4.jpg)
+## Mobile Page
 
-<img src="img/MobilepageMeet4.jpg" alt="drawing" width="200"/>
+<img src="img/MobilepageMeet.jpg" alt="drawing" width="300"/>
+<img src="img/MobilepageMeet2.jpg" alt="drawing" width="300"/>
+<img src="img/MobilepageMeet3.jpg" alt="drawing" width="300"/>
+<img src="img/MobilepageMeet4.jpg" alt="drawing" width="300"/>

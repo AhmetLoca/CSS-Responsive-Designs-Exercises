@@ -8,7 +8,7 @@
 
 ## Mobile Page
 
-<img src="img/MobilePageMeet.png" alt="drawing" width="300"/>
+<img src="img/MonilePageMeet.png" alt="drawing" width="300"/>
 <img src="img/MobilePageMeet2.jpg" alt="drawing" width="300"/>
 <img src="img/MobilePageMeet3.jpg" alt="drawing" width="300"/>
 <img src="img/MobilepageMeet4.jpg" alt="drawing" width="300"/>
